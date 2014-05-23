@@ -1,2 +1,3 @@
-Getting-and-Cleanind-Data
+Getting-and-Cleaning-Data
+
 =========================
